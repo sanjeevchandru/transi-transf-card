@@ -1,0 +1,54 @@
+@media(min-width:320px){
+	.container{
+		width:100%;
+	}
+	.price-card{
+		width:100%;
+		height:100vh;
+	}
+	.head{
+		height:15%;
+	}
+	.price-btn{
+		height:16%;
+	}
+}
+
+
+
+
+@media(min-width:760px){
+	.container{
+		width:100%;
+	}
+	.price-card{
+		width:70%;
+		height:40vh;
+	}
+	.head{
+		height:15%;
+	}
+	.price-btn{
+		height:16%;
+	}
+}
+
+
+
+
+
+@media(min-width:960px){
+	.container{
+		width:80%;
+	}
+	.price-card{
+		width:25%;
+		height:73vh;
+	}
+	.head{
+		height:15%;
+	}
+	.price-btn{
+		height:16%;
+	}
+}
